@@ -39,3 +39,4 @@ console.log(curso.aprovacao("José"));
 console.log(curso.resultados());
 
 //evertinho passou por aqui
+//evertinho passou por aqui x2
