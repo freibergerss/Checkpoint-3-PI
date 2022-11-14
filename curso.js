@@ -38,3 +38,4 @@ curso.addEstudante("José", 0, [10, 10, 6, 8]);
 console.log(curso.aprovacao("José"));
 console.log(curso.resultados());
 
+//evertinho passou por aqui
